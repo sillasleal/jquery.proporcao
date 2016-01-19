@@ -1,27 +1,28 @@
 {
-  "name": "jquery.proporcao",
-  "homepage": "https://github.com/sillasleal/jquery.proporcao",
-  "authors": [
-    "Sillas S. Leal <sillas.s.leal@gmail.com>"
-  ],
-  "description": "Plugin responsável por manter a proporção de componentes durante o redimensionamento",
-  "main": "js/jquery.proporcao.js",
-  "moduleType": [],
-  "keywords": [
-    "jquery",
-    "proporcao",
-    "resize",
-    "redimencionar"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "jquery": "~2.0.0"
-  }
+    "name": "jquery.proporcao",
+    "version": "1.0",
+    "homepage": "https://github.com/sillasleal/jquery.proporcao",
+    "authors": [
+        "Sillas S. Leal <sillas.s.leal@gmail.com>"
+    ],
+    "description": "Plugin responsável por manter a proporção de componentes durante o redimensionamento",
+    "main": "js/jquery.proporcao.js",
+    "moduleType": [],
+    "keywords": [
+        "jquery",
+        "proporcao",
+        "resize",
+        "redimencionar"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "~2.0.0"
+    }
 }
