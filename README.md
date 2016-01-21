@@ -9,5 +9,5 @@
     width:500,
     height:200
 });</code><br>
-<p>Caso não sejam informadas as dimenssões, os dados do proprio componentes seram usados.</p>
+<p>Caso não sejam informadas as dimenssões, os dados do proprio componentes são usados.</p>
 <code>$(seletor).proporcao();</code>
